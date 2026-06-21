@@ -1,0 +1,5 @@
+uploads/*.jar
+uploads/*.zip
+pending_orders.json
+__pycache__
+*.pyc
