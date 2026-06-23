@@ -1,0 +1,5 @@
+node_modules
+.next
+uploads/*.jar
+*.b64
+*.zip

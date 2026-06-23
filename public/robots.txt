@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://virgala-store.vercel.app/sitemap.xml
